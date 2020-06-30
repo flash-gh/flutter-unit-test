@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_unit_test/pages/login.dart';
 import 'package:flutter_unit_test/pages/splashscreen.dart';
 
 void main() => runApp(MyApp());
