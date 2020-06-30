@@ -3,6 +3,27 @@
 A new Flutter application.
 
 ## Getting Started
+The Flutter plugins for IntelliJ and VSCode support running tests. This is often the best option while writing tests because it provides the fastest feedback loop as well as the ability to set breakpoints.
+
+IntelliJ
+1.Open the counter_test.dart file
+2.Select the Run menu
+3.Click the Run 'tests in counter_test.dart' option
+4.Alternatively, use the appropriate keyboard shortcut for your platform.
+
+VSCode
+1.Open the any of the test files (example movie_test.dart) file
+2.Select the Run menu
+3.Click the Start Debugging option
+4.Alternatively, use the appropriate keyboard shortcut for your platform.
+
+
+Any login information can used as long
+
+Email: contains (@, .com)
+password: should be longer than 8 characters  
+
+
 
 This project is a starting point for a Flutter application.
 
